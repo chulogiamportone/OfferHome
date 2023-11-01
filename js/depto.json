@@ -1,0 +1,121 @@
+[
+    {
+        "imagen": "../img/depto1.jpg",
+        "direccion": "Las cañas 392",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Muy lindo Dúplex de 3 dormitorios a estrenar, dentro de complejo privado. Cuenta en planta baja con ampl...",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "3 ambientes - cochera - 1 baño - 60m2 ",
+        "precio": 94000
+        
+    },
+    {
+        "imagen": "../img/depto2.jpg",
+        "direccion": "TITO FRANCIA Y VILLANUEVA",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Proyecta Vende - Departamento Planta Baja, Dos Hab, Cochera, Patio. GuaymallenProyecta-desarrollos inmobiliarios. mat 1442. vende. departamento A estrenar. Ubicacion: Tito Francia y Frank",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 47000
+        
+    },
+    {
+        "imagen": "../img/depto3.webp",
+        "direccion": "Urquiza 1752",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Venta Departamento 2 Dorm. Cochera Chillcani Guaymallen MendozaUrquiza 1752, z/Chillcani, Guaymallén. 80 m2, 72 m2 cubiertos, Año de Construcción: 2021. Rodríguez Dam",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 37000
+        
+    },
+    {
+        "imagen": "../img/depto4.jpg",
+        "direccion": "Barrio Corrientes de Boedo",
+        "localidad": "Lujan de Cuyo - Mendoza",
+        "desc":"¡Venta de Dúplex!Irrera inmobiliaria vende dúplex A estrenar. Los departamentos se encuentran ubicados en el complejo privado.",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 85000
+        
+    },{
+        "imagen": "../img/depto1.jpg",
+        "direccion": "Las cañas 392",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Muy lindo Dúplex de 3 dormitorios a estrenar, dentro de complejo privado. Cuenta en planta baja con ampl...",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "3 ambientes - cochera - 1 baño - 60m2 ",
+        "precio": 94000
+        
+    },
+    {
+        "imagen": "../img/depto2.jpg",
+        "direccion": "TITO FRANCIA Y VILLANUEVA",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Proyecta Vende - Departamento Planta Baja, Dos Hab, Cochera, Patio. GuaymallenProyecta-desarrollos inmobiliarios. mat 1442. vende. departamento A estrenar. Ubicacion: Tito Francia y Frank",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 47000
+        
+    },
+    {
+        "imagen": "../img/depto3.webp",
+        "direccion": "Urquiza 1752",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Venta Departamento 2 Dorm. Cochera Chillcani Guaymallen MendozaUrquiza 1752, z/Chillcani, Guaymallén. 80 m2, 72 m2 cubiertos, Año de Construcción: 2021. Rodríguez Dam",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 37000
+        
+    },
+    {
+        "imagen": "../img/depto4.jpg",
+        "direccion": "Barrio Corrientes de Boedo",
+        "localidad": "Lujan de Cuyo - Mendoza",
+        "desc":"¡Venta de Dúplex!Irrera inmobiliaria vende dúplex A estrenar. Los departamentos se encuentran ubicados en el complejo privado.",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 85000
+        
+    },{
+        "imagen": "../img/depto1.jpg",
+        "direccion": "Las cañas 392",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Muy lindo Dúplex de 3 dormitorios a estrenar, dentro de complejo privado. Cuenta en planta baja con ampl...",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "3 ambientes - cochera - 1 baño - 60m2 ",
+        "precio": 94000
+        
+    },
+    {
+        "imagen": "../img/depto2.jpg",
+        "direccion": "TITO FRANCIA Y VILLANUEVA",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Proyecta Vende - Departamento Planta Baja, Dos Hab, Cochera, Patio. GuaymallenProyecta-desarrollos inmobiliarios. mat 1442. vende. departamento A estrenar. Ubicacion: Tito Francia y Frank",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 47000
+        
+    },
+    {
+        "imagen": "../img/depto3.webp",
+        "direccion": "Urquiza 1752",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Venta Departamento 2 Dorm. Cochera Chillcani Guaymallen MendozaUrquiza 1752, z/Chillcani, Guaymallén. 80 m2, 72 m2 cubiertos, Año de Construcción: 2021. Rodríguez Dam",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 37000
+        
+    },
+    {
+        "imagen": "../img/depto4.jpg",
+        "direccion": "Barrio Corrientes de Boedo",
+        "localidad": "Lujan de Cuyo - Mendoza",
+        "desc":"¡Venta de Dúplex!Irrera inmobiliaria vende dúplex A estrenar. Los departamentos se encuentran ubicados en el complejo privado.",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 85000
+        
+    }
+    
+]

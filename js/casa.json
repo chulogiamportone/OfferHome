@@ -1,0 +1,122 @@
+[
+    {
+        "imagen": "../img/casa1.jpg",
+        "direccion": "Las cañas 392",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Esta hermosa casa en alquiler esta ubicada en el bien conocido Club de Campo de Mendoza, el cual cuenta con una muy buena cancha de golf de 18 hoyos.Estar comedor principal con ventanas hacia el jardin. Comedor diario con salida a galeria y jardin.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2 ",
+        "precio": 1300
+        
+    },
+    {
+        "imagen": "../img/casa4.jpg",
+        "direccion": "Espectacular Casa en Alquiler",
+        "localidad": "Ruta panamericana, Luján de Cuyo, Mendoza",
+        "desc":"Living comedor. Cocina. Tres dormitorios. Escritorio. Dos baños. Dormitorio principal en planta alta con vestidor y amplio baño con jacuzzi. Balcon hacia el jardin. Espectacular parque. Piscina. Dos baños de pileta con ducha. Cochera para tres autos con posibilidad de usarla como quincho.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1000
+        
+    },
+    {
+        "imagen": "../img/casa2.jpg",
+        "direccion": "TITO FRANCIA Y VILLANUEVA",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Proyecta Vende - Casa Planta Baja, Dos Hab, Cochera, Patio. GuaymallenProyecta-desarrollos inmobiliarios. mat 1442. vende. departamento A estrenar. Ubicacion: Tito Francia y Frank",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1200
+        
+    },
+    {
+        "imagen": "../img/casa3.jpg",
+        "direccion": "Alquiler Amplia y Confortable",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Esta hermosa casa en alquiler esta ubicada en el bien conocido Club de Campo de Mendoza, el cual cuenta con una muy buena cancha de golf de 18 hoyos. Estar comedor principal con ventanas hacia el jardin. Comedor diario con salida a galeria y jardin.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1100
+        
+    },{
+        "imagen": "../img/casa1.jpg",
+        "direccion": "Las cañas 392",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Esta hermosa casa en alquiler esta ubicada en el bien conocido Club de Campo de Mendoza, el cual cuenta con una muy buena cancha de golf de 18 hoyos.Estar comedor principal con ventanas hacia el jardin. Comedor diario con salida a galeria y jardin.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2 ",
+        "precio": 1300
+        
+    },
+    {
+        "imagen": "../img/casa4.jpg",
+        "direccion": "Espectacular Casa en Alquiler",
+        "localidad": "Ruta panamericana, Luján de Cuyo, Mendoza",
+        "desc":"Living comedor. Cocina. Tres dormitorios. Escritorio. Dos baños. Dormitorio principal en planta alta con vestidor y amplio baño con jacuzzi. Balcon hacia el jardin. Espectacular parque. Piscina. Dos baños de pileta con ducha. Cochera para tres autos con posibilidad de usarla como quincho.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1000
+        
+    },
+    {
+        "imagen": "../img/casa2.jpg",
+        "direccion": "TITO FRANCIA Y VILLANUEVA",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Proyecta Vende - Casa Planta Baja, Dos Hab, Cochera, Patio. GuaymallenProyecta-desarrollos inmobiliarios. mat 1442. vende. departamento A estrenar. Ubicacion: Tito Francia y Frank",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1200
+        
+    },
+    {
+        "imagen": "../img/casa3.jpg",
+        "direccion": "Alquiler Amplia y Confortable",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Esta hermosa casa en alquiler esta ubicada en el bien conocido Club de Campo de Mendoza, el cual cuenta con una muy buena cancha de golf de 18 hoyos. Estar comedor principal con ventanas hacia el jardin. Comedor diario con salida a galeria y jardin.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1100
+        
+    },{
+        "imagen": "../img/casa1.jpg",
+        "direccion": "Las cañas 392",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Esta hermosa casa en alquiler esta ubicada en el bien conocido Club de Campo de Mendoza, el cual cuenta con una muy buena cancha de golf de 18 hoyos.Estar comedor principal con ventanas hacia el jardin. Comedor diario con salida a galeria y jardin.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2 ",
+        "precio": 1300
+        
+    },
+    {
+        "imagen": "../img/casa4.jpg",
+        "direccion": "Espectacular Casa en Alquiler",
+        "localidad": "Ruta panamericana, Luján de Cuyo, Mendoza",
+        "desc":"Living comedor. Cocina. Tres dormitorios. Escritorio. Dos baños. Dormitorio principal en planta alta con vestidor y amplio baño con jacuzzi. Balcon hacia el jardin. Espectacular parque. Piscina. Dos baños de pileta con ducha. Cochera para tres autos con posibilidad de usarla como quincho.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1000
+        
+    },
+    {
+        "imagen": "../img/casa2.jpg",
+        "direccion": "TITO FRANCIA Y VILLANUEVA",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Proyecta Vende - Casa Planta Baja, Dos Hab, Cochera, Patio. GuaymallenProyecta-desarrollos inmobiliarios. mat 1442. vende. departamento A estrenar. Ubicacion: Tito Francia y Frank",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1200
+        
+    },
+    {
+        "imagen": "../img/casa3.jpg",
+        "direccion": "Alquiler Amplia y Confortable",
+        "localidad": "Guaymallén, Mendoza",
+        "desc":"Esta hermosa casa en alquiler esta ubicada en el bien conocido Club de Campo de Mendoza, el cual cuenta con una muy buena cancha de golf de 18 hoyos. Estar comedor principal con ventanas hacia el jardin. Comedor diario con salida a galeria y jardin.",
+        "titulo": "Casa - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 1100
+        
+    }
+    
+    
+]

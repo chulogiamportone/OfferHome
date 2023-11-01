@@ -1,0 +1,301 @@
+@font-face {
+    font-family: "Monserrat";
+    src: local("?"), url("../fonts/Montserrat-Regular/Montserrat-Regular.woff") format("woff"), url("../fonts/Montserrat-Regular/Montserrat-Regular.ttf") format("truetype");
+}
+
+* {
+    font-family: Monserrat;
+}
+
+/*Tarjetas*/
+.main{
+    padding-top: 30px;
+    display: block;
+    justify-content: center;
+}
+.productcard {
+    display: flow-root;
+
+    width: 80%;
+    height: 300px;
+    border-radius: 0px 50px;
+    padding-top: 15px;
+    box-shadow: -3px 3px 6px 2px rgba(0, 0, 0, .5);
+    margin-left: 10%;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+}
+
+.cardimage {
+    border-radius: 0px 50px;
+    height: -webkit-fill-available;
+}
+
+.productcard:hover {
+    box-shadow: -3px 3px 6px 4px rgba(0, 0, 0, .5);
+}
+
+.pcard1 {
+    display: flex;
+    justify-content: space-around;
+    height: 210px;
+    width: 100%;
+
+}
+
+.pc1a {
+
+    height: 90%;
+    width: 50%;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.pc1b {
+    height: 100%;
+    width: 50%;
+}
+
+.pc1 {
+    height: 30%;
+    padding-bottom: 5px;
+    width: 90%;
+    border-bottom: 1px solid;
+    border-color: #59220E;
+
+
+}
+
+.pc2 {
+    height: 70%;
+    width: 90%;
+    margin-top: 10px;
+}
+
+
+.pcard2 {
+    display: flex;
+    margin-left: 10%;
+    justify-content: space-around;
+    align-self: center;
+    height: 20%;
+    width: 80%;
+    justify-self: center;
+    background-color: #FFF6EB;
+    padding-top: 5px;
+    border-radius: 10px;
+
+}
+
+.pc2a {
+    height: 100%;
+    width: 45%;
+    margin-left: 5px;
+
+}
+
+
+.pc2b {
+    height: 70%;
+    width: 9%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.pc2b:hover {
+    background-color: #59220E;
+
+    border-radius: 20px;
+}
+
+.pc2icon {
+    height: 80%;
+    width: 80%;
+    align-self: center;
+    content: url('https://api.iconify.design/streamline/interface-favorite-heart-reward-social-rating-media-heart-it-like-favorite-love.svg?color=%2359220e');
+    
+}
+
+.pc2icon:hover {
+    content: url('https://api.iconify.design/streamline/interface-favorite-heart-reward-social-rating-media-heart-it-like-favorite-love.svg?color=white');
+
+}
+
+.pc2c {
+    display: block;
+    text-align: right;
+    height: 100%;
+    width: 45%;
+    margin-right: 5px;
+}
+
+
+.TD1 {
+
+    height: 30%;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 22px;
+
+    color: #59220E;
+}
+
+.TD2 {
+
+    height: 30%;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 22px;
+
+    color: #59220E;
+}
+
+.TD3 {
+    width: 90;
+    height: fit-content;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32.9259px;
+    line-height: 33px;
+
+    color: #59220E;
+}
+
+.TPD {
+    width: 100%;
+    height: 100%;
+
+    color: black
+}
+
+/*FinTarjetas*/
+
+/*pagination*/
+
+.pag{
+    display: flex;
+justify-content: center;
+}
+
+
+
+
+
+
+
+/*Finpag*/
+/*Footer*/
+.footerclass {
+    margin-top: 9%;
+    height: 300px;
+    width: 100%;
+    box-shadow: 0px 0px 5px #59220E;
+    background-color: #ffffff;
+
+}
+
+.footer {
+    height: 300px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footerimg {
+    width: 25%;
+    margin-left: 150px;
+}
+
+.herofimage {
+    margin-top: 70px;
+    width: 60%;
+    height: auto;
+
+}
+
+.footertext {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.textfooter {
+    width: 33%;
+}
+
+
+.ultitle {
+    font-family: Monserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #59220E;
+}
+
+.list-a {
+    font-family: Monserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 33px;
+    color: #59220E;
+}
+
+.list-a:hover {
+    color: #42190B;
+    text-decoration: none;
+    box-shadow: 0px 1px 0px 0px #59220E;
+
+}
+
+.footer2 {
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 5px 0px #59220E;
+
+}
+
+.year {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 150px;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+
+
+.F5 {
+
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #59220E;
+    height: 30px;
+    font-family: Monserrat;
+}
+
+.footer3 {
+
+    height: 60px;
+    width: 100%;
+
+}
+
+/* fin Footer*/

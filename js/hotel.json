@@ -1,0 +1,122 @@
+[
+    {
+        "imagen": "../img/hotel3.jpg",
+        "direccion": "Valle de Uco",
+        "localidad": "Lujan, Mendoza",
+        "desc":"El Hotel de Cielo está situado en el majestuoso valle de Uco, concretamente en La Carrera, y ofrece vistas impresionantes. Para llegar, es necesario conducir los últimos 15 km de camino de grava.",
+        "titulo": "Hotel - 4 Personas",
+        "minidesc": "3 ambientes - cochera - 1 baño ",
+        "precio": 200
+        
+    },
+    {
+        "imagen": "../img/hotel.jpg",
+        "direccion": "DiplomaticHotel",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Este hotel de 5 estrellas está situado en el centro de Mendoza y cuenta con pileta al aire libre, gimnasio y sauna. Está rodeado de restaurantes, bodegas y tiendas. Alberga un restaurante de cocina mediterránea. La conexión WiFi es gratuita y el desayuno buffet está incluido.",
+        "titulo": "Hotel - 1 Personas",
+        "minidesc": "1 cuartos - 1 baño - 60m2",
+        "precio": 120
+        
+    },
+    {
+        "imagen": "../img/hotel2.jpg",
+        "direccion": "Apart Hotel Quijote by DOT Suites",
+        "localidad": "Maipu, Mendoza",
+        "desc":"El Apart Hotel Quijote by DOT Suites ofrece alojamiento de 4 estrellas en Ciudad Luján de Cuyo, a 1,7 km de la bodega Elvira Calle y a 3,5 km de la bodega Enrique Foster. Este hotel de 4 estrellas ofrece recepción 24 horas, servicio de conserjería y wifi gratis. Hay estacionamiento privado gratuito y servicio de alquiler de autos.",
+        "titulo": "Hotel- 2 Personas",
+        "minidesc": "1 cuartos - 1 baño",
+        "precio": 170
+        
+    },
+    {
+        "imagen": "../img/hotel4.jpg",
+        "direccion": "Posada Mawida",
+        "localidad": "Lujan de Cuyo - Mendoza",
+        "desc":"La Posada Mawida se encuentra en Maipú, a 9 km de la bodega Pedro Y Jorge Cecchin, y ofrece restaurante, estacionamiento privado gratuito, pileta exterior de temporada y bar. El alojamiento se encuentra a 11 km de la bodega La Rural y de la bodega López y ofrece salón compartido y jardín. También hay un bar.",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 260
+        
+    }, {
+        "imagen": "../img/hotel3.jpg",
+        "direccion": "Valle de Uco",
+        "localidad": "Lujan, Mendoza",
+        "desc":"El Hotel de Cielo está situado en el majestuoso valle de Uco, concretamente en La Carrera, y ofrece vistas impresionantes. Para llegar, es necesario conducir los últimos 15 km de camino de grava.",
+        "titulo": "Hotel - 4 Personas",
+        "minidesc": "3 ambientes - cochera - 1 baño ",
+        "precio": 200
+        
+    },
+    {
+        "imagen": "../img/hotel.jpg",
+        "direccion": "DiplomaticHotel",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Este hotel de 5 estrellas está situado en el centro de Mendoza y cuenta con pileta al aire libre, gimnasio y sauna. Está rodeado de restaurantes, bodegas y tiendas. Alberga un restaurante de cocina mediterránea. La conexión WiFi es gratuita y el desayuno buffet está incluido.",
+        "titulo": "Hotel - 1 Personas",
+        "minidesc": "1 cuartos - 1 baño - 60m2",
+        "precio": 120
+        
+    },
+    {
+        "imagen": "../img/hotel2.jpg",
+        "direccion": "Apart Hotel Quijote by DOT Suites",
+        "localidad": "Maipu, Mendoza",
+        "desc":"El Apart Hotel Quijote by DOT Suites ofrece alojamiento de 4 estrellas en Ciudad Luján de Cuyo, a 1,7 km de la bodega Elvira Calle y a 3,5 km de la bodega Enrique Foster. Este hotel de 4 estrellas ofrece recepción 24 horas, servicio de conserjería y wifi gratis. Hay estacionamiento privado gratuito y servicio de alquiler de autos.",
+        "titulo": "Hotel- 2 Personas",
+        "minidesc": "1 cuartos - 1 baño",
+        "precio": 170
+        
+    },
+    {
+        "imagen": "../img/hotel4.jpg",
+        "direccion": "Posada Mawida",
+        "localidad": "Lujan de Cuyo - Mendoza",
+        "desc":"La Posada Mawida se encuentra en Maipú, a 9 km de la bodega Pedro Y Jorge Cecchin, y ofrece restaurante, estacionamiento privado gratuito, pileta exterior de temporada y bar. El alojamiento se encuentra a 11 km de la bodega La Rural y de la bodega López y ofrece salón compartido y jardín. También hay un bar.",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 260
+        
+    },{
+        "imagen": "../img/hotel3.jpg",
+        "direccion": "Valle de Uco",
+        "localidad": "Lujan, Mendoza",
+        "desc":"El Hotel de Cielo está situado en el majestuoso valle de Uco, concretamente en La Carrera, y ofrece vistas impresionantes. Para llegar, es necesario conducir los últimos 15 km de camino de grava.",
+        "titulo": "Hotel - 4 Personas",
+        "minidesc": "3 ambientes - cochera - 1 baño ",
+        "precio": 200
+        
+    },
+    {
+        "imagen": "../img/hotel.jpg",
+        "direccion": "DiplomaticHotel",
+        "localidad": "San Fco. del Monte, Guaymallén",
+        "desc":"Este hotel de 5 estrellas está situado en el centro de Mendoza y cuenta con pileta al aire libre, gimnasio y sauna. Está rodeado de restaurantes, bodegas y tiendas. Alberga un restaurante de cocina mediterránea. La conexión WiFi es gratuita y el desayuno buffet está incluido.",
+        "titulo": "Hotel - 1 Personas",
+        "minidesc": "1 cuartos - 1 baño - 60m2",
+        "precio": 120
+        
+    },
+    {
+        "imagen": "../img/hotel2.jpg",
+        "direccion": "Apart Hotel Quijote by DOT Suites",
+        "localidad": "Maipu, Mendoza",
+        "desc":"El Apart Hotel Quijote by DOT Suites ofrece alojamiento de 4 estrellas en Ciudad Luján de Cuyo, a 1,7 km de la bodega Elvira Calle y a 3,5 km de la bodega Enrique Foster. Este hotel de 4 estrellas ofrece recepción 24 horas, servicio de conserjería y wifi gratis. Hay estacionamiento privado gratuito y servicio de alquiler de autos.",
+        "titulo": "Hotel- 2 Personas",
+        "minidesc": "1 cuartos - 1 baño",
+        "precio": 170
+        
+    },
+    {
+        "imagen": "../img/hotel4.jpg",
+        "direccion": "Posada Mawida",
+        "localidad": "Lujan de Cuyo - Mendoza",
+        "desc":"La Posada Mawida se encuentra en Maipú, a 9 km de la bodega Pedro Y Jorge Cecchin, y ofrece restaurante, estacionamiento privado gratuito, pileta exterior de temporada y bar. El alojamiento se encuentra a 11 km de la bodega La Rural y de la bodega López y ofrece salón compartido y jardín. También hay un bar.",
+        "titulo": "Departamento - 4 Personas",
+        "minidesc": "2 cuartos - 1 baño - 60m2",
+        "precio": 260
+        
+    }
+]
+    
+    
